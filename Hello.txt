@@ -1,3 +1,7 @@
 print("Hello World");
+<<<<<<< HEAD
 print("How are you");
 print("Im");
+=======
+
+>>>>>>> parent of cb3a9e9 (Update Hello.txt)
